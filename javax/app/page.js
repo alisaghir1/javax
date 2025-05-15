@@ -123,7 +123,7 @@ export default function Home() {
           ))}
         </div>
       </section>
-      <div className="text-center text-5xl my-20 bg-black text-white">
+      <div className="text-center text-5xl  bg-black text-white py-20">
         إذا كنت بحاجة لأي صور إضافية أو استفسارات، أو حتى لترتيب موعد، لا تتردد في التواصل معي بشكل خاص. شكرًا، علي صغير.
       </div>
     </main>
