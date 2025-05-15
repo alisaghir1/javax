@@ -21,13 +21,13 @@ export default function Home() {
         />
 
         <p className="text-2xl mt-4 max-w-xl">
-          "معروف بمهاراته في الكاونتر، ومهاراته في تنس الطاولة، وذكائه العالي."
+          معروف بمهاراته في الكاونتر، ومهاراته في تنس الطاولة، وذكائه العالي.
         </p>
 
         <div className="bg-white text-black rounded-xl p-4 mt-6 max-w-md shadow">
           <h2 className="text-3xl font-bold">Top Skills:</h2>
           <ul className="list-disc text-2xl text-left pl-5 mt-2">
-            <li>"أهم المهارات:"</li>
+            <li className="text-3xl">أهم المهارات</li>
             <li>أمه عاشقة لكثير من الشباب</li>
             <li>صف الكوريين في صف واحد.</li>
           </ul>
